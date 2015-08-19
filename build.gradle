@@ -1,0 +1,19 @@
+apply plugin: 'java'
+apply plugin: 'war'
+apply plugin: 'eclipse-wtp'
+
+webAppDirName = 'webapps'    // 设置 WebApp 根目录
+
+repositories {
+	maven {
+		url "http://svn.corp.qunar.com:8081/nexus/content/groups/public"
+	}
+}
+
+dependencies {
+	// spring
+	def springVersion = "4.0.1.RELEASE"
+	
+	// spring
+	compile "org.springframework:spring-webmvc:$springVersion"
+}
