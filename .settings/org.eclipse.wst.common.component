@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="2.0">
+	<wb-module deploy-name="gradledemo">
+		<property name="context-root" value="gradledemo"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
+		<wb-resource deploy-path="/" source-path="webapps"/>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.1.RELEASE/2dbc91a6413115f7ffbe94f0fa9bc9fda3281d90/spring-webmvc-4.0.1.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.0.1.RELEASE/605582e95fb62b43fb4a843babdcf739f3497e92/spring-beans-4.0.1.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.0.1.RELEASE/ff68e4cfdbb2be3e8d8a7f34e7cbacc1860dfe75/spring-aop-4.0.1.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.1.RELEASE/2ace92025f042e1d3ddfdbba093172e3572ac130/spring-web-4.0.1.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.1.RELEASE/e39774d97c9dadfe49e6dfd16e3868bc1e390554/spring-core-4.0.1.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.0.1.RELEASE/cb996939c8d48ae55ec933041f17e7fba4d9e27d/spring-context-4.0.1.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.1.RELEASE/452cb22401e868a1e79677dd22b6a3097fc603fa/spring-expression-4.0.1.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+	</wb-module>
+</project-modules>

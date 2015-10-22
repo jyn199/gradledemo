@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.1.RELEASE/b567c0d0bb7153347d479cfb3cca658c81857e85/spring-webmvc-4.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.1.RELEASE/2dbc91a6413115f7ffbe94f0fa9bc9fda3281d90/spring-webmvc-4.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.0.1.RELEASE/9449d1d53ca942bf6b060d89a2787a6408ffcabe/spring-beans-4.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.0.1.RELEASE/605582e95fb62b43fb4a843babdcf739f3497e92/spring-beans-4.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.0.1.RELEASE/f5189a198db33b2d8adc5801339d659ee92f9040/spring-aop-4.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.0.1.RELEASE/ff68e4cfdbb2be3e8d8a7f34e7cbacc1860dfe75/spring-aop-4.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.1.RELEASE/e9f9d0649e61af469444970e256c7224ca10e3bc/spring-web-4.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.1.RELEASE/2ace92025f042e1d3ddfdbba093172e3572ac130/spring-web-4.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.1.RELEASE/758732d7c02e8cc2a1866e529b21dda85f9cf326/spring-core-4.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.1.RELEASE/e39774d97c9dadfe49e6dfd16e3868bc1e390554/spring-core-4.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.0.1.RELEASE/148fc52b7d7ac01b5a67642a35d914702385c037/spring-context-4.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.0.1.RELEASE/cb996939c8d48ae55ec933041f17e7fba4d9e27d/spring-context-4.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.1.RELEASE/bb4945a162af9acf045309885b455ecdfcc7f7cd/spring-expression-4.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/yongnian.jiang.QUNARSERVERS/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.1.RELEASE/452cb22401e868a1e79677dd22b6a3097fc603fa/spring-expression-4.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
